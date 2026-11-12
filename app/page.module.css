@@ -1,0 +1,10 @@
+.main { max-width: 900px; margin: 0 auto; padding: 48px 24px 90px; font-family: var(--font-geist-sans), system-ui, sans-serif; font-size: 17px; line-height: 1.6; }
+.main h1 { font-size: 44px; letter-spacing: -0.02em; margin: 0 0 8px; }
+.lead { color: #5b5752; font-size: 19px; margin: 0 0 28px; max-width: 680px; }
+.grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+.card { border: 1px solid #e7e2dc; border-radius: 12px; padding: 18px 20px; background: #fffdfa; }
+.card h2 { margin: 0; font-size: 21px; }
+.card p { margin: 4px 0 0; }
+.meta { color: #8a7f74; font-size: 15px; }
+.price { font-weight: 600; margin-top: 8px !important; }
+.h2 { font-size: 24px; margin: 40px 0 6px; }
